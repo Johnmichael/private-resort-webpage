@@ -13,6 +13,11 @@ body{text-align: center
 
 }
 
+img {
+  padding: 10px;
+  border: 10px;
+  margin: 10px;
+}
 
 li{list-style-type: none;
   display: inline;
@@ -31,4 +36,11 @@ a{
 
 p1{font-size: 30px;
 
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
 }
